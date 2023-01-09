@@ -1,0 +1,208 @@
+{
+  "kpi_20": {
+    "name": "KPI-2-0: station characteristics",
+    "total": 32,
+    "score": 1.0,
+    "comments": [
+      "geopositioning method not found",
+      "valid period of geospatial location not found",
+      "region doesnt match coordinates",
+      "time zone not found",
+      "valid period of time zone not found",
+      "supervising organization not found",
+      "valid period of supervising organization not found",
+      "facility URL not found",
+      "Other links are missing",
+      "site description not found",
+      "climate zone not found",
+      "valid period of climate zone not found",
+      "surface cover classification not found",
+      "valid period of surface cover not found",
+      "surface roughness not found",
+      "valid period of surface roughness not found",
+      "local topography href not found",
+      "relative elevation href not found",
+      "topographic context href not found",
+      "altitude or depth href not found",
+      "valid period of topography or bathymetry not found",
+      "population10km not found",
+      "population50km not found",
+      "valid period of population not found",
+      "logEntry not found",
+      "valid period of territory not found"
+    ],
+    "percentage": 3.125
+  },
+  "kpi_21": {
+    "name": "KPI-2-1: station characteristics (OSCAR/Surface)",
+    "total": 0,
+    "score": 0,
+    "comments": [
+      "not implemented"
+    ],
+    "percentage": null
+  },
+  "kpi_30": {
+    "name": "KPI-3-0: Observations/measurements - Basic information",
+    "total": 0,
+    "score": 0,
+    "comments": [
+      "OM_Observation not found"
+    ],
+    "percentage": null,
+    "number_of_instances": 0
+  },
+  "kpi_31": {
+    "name": "KPI-3-1: Deployment",
+    "total": 33,
+    "score": 0,
+    "comments": [
+      "OM_Observation not found"
+    ],
+    "percentage": 0.0,
+    "number_of_instances": 0
+  },
+  "kpi_32": {
+    "name": "KPI-3-2: Deployment (OSCAR/Surface)",
+    "total": 0,
+    "score": 0,
+    "comments": [
+      "not implemented"
+    ],
+    "percentage": null
+  },
+  "kpi_33": {
+    "name": "KPI-3-3: Data generation",
+    "total": 24,
+    "score": 0,
+    "comments": [
+      "dataGeneration not found"
+    ],
+    "percentage": 0.0,
+    "number_of_instances": 0
+  },
+  "kpi_34": {
+    "name": "KPI-3-4: Data generation (OSCAR/Surface)",
+    "total": 0,
+    "score": 0,
+    "comments": [
+      "not implemented"
+    ],
+    "percentage": null
+  },
+  "kpi_40": {
+    "name": "KPI-4-0: Station contacts",
+    "total": 1,
+    "score": 0,
+    "comments": [
+      "responsibleParty not found"
+    ],
+    "percentage": 0.0
+  },
+  "kpi_41": {
+    "name": "KPI-4-1: Station contact - individual",
+    "total": 5,
+    "score": 0,
+    "comments": [
+      "responsibleParty not found"
+    ],
+    "percentage": 0.0,
+    "number_of_instances": 0
+  },
+  "kpi_50": {
+    "name": "KPI-5-0: Bibliographic references and Documents (OSCAR/Surface)",
+    "total": 0,
+    "score": 0,
+    "comments": [
+      "not implemented"
+    ],
+    "percentage": null
+  },
+  "kpi_60": {
+    "name": "KPI-6-0: Value of a station for WIGOS",
+    "total": 8,
+    "score": 0.0,
+    "comments": [
+      "program affiliation not found",
+      "found 1 observation (goal >10)",
+      "application area not present in codelist",
+      "found 0-1 valid application area (goal >1)",
+      "end position of deployment valid period not found"
+    ],
+    "percentage": 0.0
+  },
+  "summary": {
+    "total": 103,
+    "score": 1.0,
+    "comments": {
+      "kpi_20": [
+        "geopositioning method not found",
+        "valid period of geospatial location not found",
+        "region doesnt match coordinates",
+        "time zone not found",
+        "valid period of time zone not found",
+        "supervising organization not found",
+        "valid period of supervising organization not found",
+        "facility URL not found",
+        "Other links are missing",
+        "site description not found",
+        "climate zone not found",
+        "valid period of climate zone not found",
+        "surface cover classification not found",
+        "valid period of surface cover not found",
+        "surface roughness not found",
+        "valid period of surface roughness not found",
+        "local topography href not found",
+        "relative elevation href not found",
+        "topographic context href not found",
+        "altitude or depth href not found",
+        "valid period of topography or bathymetry not found",
+        "population10km not found",
+        "population50km not found",
+        "valid period of population not found",
+        "logEntry not found",
+        "valid period of territory not found"
+      ],
+      "kpi_21": [
+        "not implemented"
+      ],
+      "kpi_30": [
+        "OM_Observation not found"
+      ],
+      "kpi_31": [
+        "OM_Observation not found"
+      ],
+      "kpi_32": [
+        "not implemented"
+      ],
+      "kpi_33": [
+        "dataGeneration not found"
+      ],
+      "kpi_34": [
+        "not implemented"
+      ],
+      "kpi_40": [
+        "responsibleParty not found"
+      ],
+      "kpi_41": [
+        "responsibleParty not found"
+      ],
+      "kpi_50": [
+        "not implemented"
+      ],
+      "kpi_60": [
+        "program affiliation not found",
+        "found 1 observation (goal >10)",
+        "application area not present in codelist",
+        "found 0-1 valid application area (goal >1)",
+        "end position of deployment valid period not found"
+      ]
+    },
+    "percentage": 0.971,
+    "identifier": "http://wigos.wmo.int/B161DE13D509B4E4FA890CB487AD0E4D4DCE49E6",
+    "organisation": "",
+    "country": "http://codes.wmo.int/wmdr/TerritoryName/BRA",
+    "region": "http://codes.wmo.int/wmdr/WMORegion/",
+    "grade": "F"
+  }
+}

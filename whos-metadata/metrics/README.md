@@ -1,0 +1,1 @@
+Here I drop the result of metrics calculation upon datasets from different WHOS views. The json files are the result of running pywmdr metrics and the ipynb files take the former as input to produce a set of graphs
