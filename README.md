@@ -46,6 +46,8 @@
 | Ms AyI saidu                | United Kingdom of Great Britain and Northern Ireland |
 
 ## Contributors
+| Name                        | Country/Organization
+|-----------------------------|------------------------------------------------------|
 | Mr Kyle ONDA                | United States of America                             |
 | Mr Benjamin WEBB            | United States of America                             |
 | Mr Juan BIANCHI             | Argentina                                            |
