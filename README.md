@@ -20,46 +20,47 @@
 | Mr Enrico    BOLDRINI       | Italy                                                |
 | Ms Rania Kamel ELSAIED      | Egypt                                                |
 | Mr Paolo    MAZETTI         | Italy                                                |
-| Mr Fabrizio PAPESCHI        | Italy                                                |
 | Mr Ethan SHAVERS            | United States of America                             |
 | Mr Mohamed Hafiz KAMALUDDIN | Malaysia                                             |
 | Mr Sylvain GRELLET          | France                                               |
-| Mr Jose VALLES              | Uruguay                                              |
 | Mr Joao    CARVALHO         | Brazil                                               |
 | Mr Chee Chin  POH           | Malaysia                                             |
 | Mr Musariri MUSARIRI        | South Africa                                         |
-| Ms    Mashabela  EDELINE    | South Africa                                         |
+| Ms Mashabela  EDELINE       | South Africa                                         |
 | Ms Phatu NEMAXWI            | South Africa                                         |
 | Mr Paolo    LEONI           | Italy                                                |
 | Ms Hoda Ahmed SARHAN        | Egypt                                                |
 | Ms Sara  MOHAMMED           | Egypt                                                |
 | Mr Barak FISHBAIN           | Israel                                               |
 | Mr Lucas CHAMORRO           | Paraguay                                             |
-| Mr Jim NELSON               | United States of America                             |
-| Mr Giovanni  ROMERO         | Bolivia                                              |
 | Mr Tony BOSTON              | Austalia                                             |                                               
-| Reuben Ngesa                | Kenya                                                |
+| Reuben NGESA                | Kenya                                                |
 | Mr Shawn    BOYCE           | British Caribbean Territories                        |
 | Mr Artem SHEVCHENKO         | Russian Federation                                   |
-| Ms Louise SLATER            | United Kingdom of Great Britain and Northern Ireland |
-| Mr Michel WORTMANN          | United Kingdom of Great Britain and Northern Ireland |
-| Ms AyI saidu                | United Kingdom of Great Britain and Northern Ireland |
+| Pr.(Ms) Louise SLATER       | United Kingdom of Great Britain and Northern Ireland |
+| Ms Ayishetu TaniIBRAHIM     | Nigeria                                              |
+| Mr Jim NELSON               | Brigham Young University (USA)                       |
+| Mr Giovanni  ROMERO         | Aquaveo (USA)                                        |
+| Mr Fabrizio PAPESCHI        | National Research Council -CNR (Italy)               |
+| Mr Roberto  RONCELLA        | National Research Council -CNR (Italy)               |
 
 ## Contributors
 | Name                        | Country/Organization
 |-----------------------------|------------------------------------------------------|
-| Mr Kyle ONDA                | United States of America                             |
-| Mr Benjamin WEBB            | United States of America                             |
+| Mr Kyle ONDA                | Center for Geospatial Solutions (USA)                |
+| Mr Benjamin WEBB            | Center for Geospatial Solutions (USA)                |
 | Mr Juan BIANCHI             | Argentina                                            |
 | Ms Asma    SLAIMI           |                                                      |
-| Ms AyI saidu                | Nigeria                                              |
-
+| Mr Martin Seul              | CUAHSI                                               |
+|Mr Michel WORTMANN           | University of Oxford (UK)                            |
+|Jeff Horsburgh               | Utah State University (USA)                          |
+ 
 ## WMO Secretariat    
 
 |Name |GitHub handle |
 |---- |--------------|
-|Mr Washington OTIENO|[@disiiwash](https://github.com/disiiwash)
-
+|Mr Washington OTIENO|@disiiwash
+|Dr. Jorhana Korhonen|@jkorhonen
 
 
 ## Meetings
@@ -70,7 +71,6 @@ https://github.com/wmo-im/tt-w4h/wiki/Meetings
 
 ## Project Boards
 - [TT-W4H issue collection](https://github.com/orgs/wmo-im/projects/31)
-
 
 
 ## Repositories
