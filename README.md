@@ -79,6 +79,8 @@ https://github.com/wmo-im/tt-w4h/wiki/Meetings
 * [WMO Information System 2.0 Topic Hierarchy](https://github.com/wmo-im/wis2-topic-hierarchy)
 * [Essi-Lab Discovery and Access Broker (DAB) Community Edition (CE)](https://github.com/ESSI-Lab/DAB)
 * [Aquaveo Water-Data-Explorer-WHOS](https://github.com/Aquaveo/Water-Data-Explorer-WHOS)
+* [HydroServer2](https://github.com/hydroserver2)
+* [WIS2Box](https://github.com/wmo-im/wis2box)
 
 ## GitHub
 - Teams
