@@ -51,7 +51,9 @@
 | Mr Kyle ONDA                | United States of America                             |
 | Mr Benjamin WEBB            | United States of America                             |
 | Mr Juan BIANCHI             | Argentina                                            |
-|  Asma    SLAIMI             |   AyI saidu                                          |
+| Ms Asma    SLAIMI           |                                                      |
+| Ms AyI saidu                | Nigeria                                              |
+
 ## WMO Secretariat    
 
 |Name |GitHub handle |
