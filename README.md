@@ -38,12 +38,12 @@
 | Mr Jim NELSON               | United States of America                             |
 | Mr Giovanni  ROMERO         | Bolivia                                              |
 | Mr Tony BOSTON              | Austalia                                             |                                               
-| Reuban Ngesa                | Kenya                                                |
+| Reuben Ngesa                | Kenya                                                |
 | Mr Shawn    BOYCE           | British Caribbean Territories                        |
 | Mr Artem SHEVCHENKO         | Russian Federation                                   |
 | Ms Louise SLATER            | United Kingdom of Great Britain and Northern Ireland |
 | Mr Michel WORTMANN          | United Kingdom of Great Britain and Northern Ireland |
-| AyI saidu                   | United Kingdom of Great Britain and Northern Ireland |
+| Ms AyI saidu                | United Kingdom of Great Britain and Northern Ireland |
 
 ## Contributors
 | Mr Kyle ONDA                | United States of America                             |
