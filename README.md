@@ -23,36 +23,37 @@
 | Mr Fabrizio PAPESCHI        | Italy                                                |
 | Mr Ethan SHAVERS            | United States of America                             |
 | Mr Mohamed Hafiz KAMALUDDIN | Malaysia                                             |
-| Mr Kyle ONDA                | United States of America                             |
-| Mr Benjamin WEBB            | United States of America                             |
 | Mr Sylvain GRELLET          | France                                               |
-| Mr Juan BIANCHI             | Argentina                                            |
 | Mr Jose VALLES              | Uruguay                                              |
-| Mr Joao    CARVALHO         |                                                      |
+| Mr Joao    CARVALHO         | Brazil                                               |
 | Mr Chee Chin  POH           | Malaysia                                             |
 | Mr Musariri MUSARIRI        | South Africa                                         |
 | Ms    Mashabela  EDELINE    | South Africa                                         |
 | Ms Phatu NEMAXWI            | South Africa                                         |
-| Mr Paolo    LEONI           |                                                      |
+| Mr Paolo    LEONI           | Italy                                                |
 | Ms Hoda Ahmed SARHAN        | Egypt                                                |
-| Ms    Sara  MOHAMMED        |                                                      |
-|  Asma    SLAIMI             |                                                      |
+| Ms Sara  MOHAMMED           | Egypt                                                |
 | Mr Barak FISHBAIN           | Israel                                               |
 | Mr Lucas CHAMORRO           | Paraguay                                             |
 | Mr Jim NELSON               | United States of America                             |
-| Mr Giovanni  ROMERO         |                                                      |
-| Mr Tony BOSTON              | Austalia                                             |
-| Mr Toru SUZUKI              | Japan                                                |
-|  Faima AIMO                 |                                                      |
+| Mr Giovanni  ROMERO         | Bolivia                                              |
+| Mr Tony BOSTON              | Austalia                                             |                                               
+| Reuban Ngesa                | Kenya                                                |
 | Mr Shawn    BOYCE           | British Caribbean Territories                        |
 | Mr Artem SHEVCHENKO         | Russian Federation                                   |
 | Ms Louise SLATER            | United Kingdom of Great Britain and Northern Ireland |
 | Mr Michel WORTMANN          | United Kingdom of Great Britain and Northern Ireland |
+| AyI saidu                   | United Kingdom of Great Britain and Northern Ireland |
 
-## WMO Secretariat
+## Contributors
+| Mr Kyle ONDA                | United States of America                             |
+| Mr Benjamin WEBB            | United States of America                             |
+| Mr Juan BIANCHI             | Argentina                                            |
+|  Asma    SLAIMI             |   AyI saidu                                          |
+## WMO Secretariat    
 
 |Name |GitHub handle |
-|---|---|
+|---- |--------------|
 |Mr Washington OTIENO|[@disiiwash](https://github.com/disiiwash)
 
 
@@ -77,5 +78,5 @@ https://github.com/wmo-im/tt-w4h/wiki/Meetings
 ## GitHub
 - Teams
   - tag all of [TT-W4H](https://github.com/orgs/wmo-im/teams/tt-w4h) in a GitHub issue: **@wmo-im/tt-w4h**
-  - tag all of [ET-HYDMON](https://github.com/orgs/wmo-im/teams/et-hydmon) in a GitHub issue: **@wmo-im/et-hydmon**
+  - tag all of [JET-HYDMON](https://github.com/orgs/wmo-im/teams/et-hydmon) in a GitHub issue: **@wmo-im/et-hydmon**
 - [Team members and their GitHub handles](#Membership)
