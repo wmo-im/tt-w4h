@@ -20,41 +20,47 @@
 | Mr Enrico    BOLDRINI       | Italy                                                |
 | Ms Rania Kamel ELSAIED      | Egypt                                                |
 | Mr Paolo    MAZETTI         | Italy                                                |
-| Mr Fabrizio PAPESCHI        | Italy                                                |
 | Mr Ethan SHAVERS            | United States of America                             |
 | Mr Mohamed Hafiz KAMALUDDIN | Malaysia                                             |
-| Mr Kyle ONDA                | United States of America                             |
-| Mr Benjamin WEBB            | United States of America                             |
 | Mr Sylvain GRELLET          | France                                               |
-| Mr Juan BIANCHI             | Argentina                                            |
-| Mr Jose VALLES              | Uruguay                                              |
-| Mr Joao    CARVALHO         |                                                      |
+| Mr Joao    CARVALHO         | Brazil                                               |
 | Mr Chee Chin  POH           | Malaysia                                             |
 | Mr Musariri MUSARIRI        | South Africa                                         |
-| Ms    Mashabela  EDELINE    | South Africa                                         |
+| Ms Mashabela  EDELINE       | South Africa                                         |
 | Ms Phatu NEMAXWI            | South Africa                                         |
-| Mr Paolo    LEONI           |                                                      |
+| Mr Paolo    LEONI           | Italy                                                |
 | Ms Hoda Ahmed SARHAN        | Egypt                                                |
-| Ms    Sara  MOHAMMED        |                                                      |
-|  Asma    SLAIMI             |                                                      |
+| Ms Sara  MOHAMMED           | Egypt                                                |
 | Mr Barak FISHBAIN           | Israel                                               |
 | Mr Lucas CHAMORRO           | Paraguay                                             |
-| Mr Jim NELSON               | United States of America                             |
-| Mr Giovanni  ROMERO         |                                                      |
-| Mr Tony BOSTON              | Austalia                                             |
-| Mr Toru SUZUKI              | Japan                                                |
-|  Faima AIMO                 |                                                      |
+| Mr Tony BOSTON              | Austalia                                             |                                               
+| Reuben NGESA                | Kenya                                                |
 | Mr Shawn    BOYCE           | British Caribbean Territories                        |
 | Mr Artem SHEVCHENKO         | Russian Federation                                   |
-| Ms Louise SLATER            | United Kingdom of Great Britain and Northern Ireland |
-| Mr Michel WORTMANN          | United Kingdom of Great Britain and Northern Ireland |
+| Pr.(Ms) Louise SLATER       | United Kingdom of Great Britain and Northern Ireland |
+| Ms Ayishetu TaniIBRAHIM     | Nigeria                                              |
+| Mr Jim NELSON               | Brigham Young University (USA)                       |
+| Mr Giovanni  ROMERO         | Aquaveo (USA)                                        |
+| Mr Fabrizio PAPESCHI        | National Research Council -CNR (Italy)               |
+| Mr Roberto  RONCELLA        | National Research Council -CNR (Italy)               |
 
-## WMO Secretariat
+## Contributors
+| Name                        | Country/Organization
+|-----------------------------|------------------------------------------------------|
+| Mr Kyle ONDA                | Center for Geospatial Solutions (USA)                |
+| Mr Benjamin WEBB            | Center for Geospatial Solutions (USA)                |
+| Mr Juan BIANCHI             | Argentina                                            |
+| Ms Asma    SLAIMI           |                                                      |
+| Mr Martin Seul              | CUAHSI                                               |
+|Mr Michel WORTMANN           | University of Oxford (UK)                            |
+|Jeff Horsburgh               | Utah State University (USA)                          |
+ 
+## WMO Secretariat    
 
 |Name |GitHub handle |
-|---|---|
-|Mr Washington OTIENO|[@disiiwash](https://github.com/disiiwash)
-
+|---- |--------------|
+|Mr Washington OTIENO|@disiiwash
+|Dr. Jorhana Korhonen|@jkorhonen
 
 
 ## Meetings
@@ -67,15 +73,17 @@ https://github.com/wmo-im/tt-w4h/wiki/Meetings
 - [TT-W4H issue collection](https://github.com/orgs/wmo-im/projects/31)
 
 
-
 ## Repositories
 * [WMO Core Metadata Profile 2.0](https://github.com/wmo-im/wcmp2)
 * [WMO Core Metadata Profile 2.0 Code Lists](https://github.com/wmo-im/wcmp2-codelists)
 * [WMO Information System 2.0 Topic Hierarchy](https://github.com/wmo-im/wis2-topic-hierarchy)
 * [Essi-Lab Discovery and Access Broker (DAB) Community Edition (CE)](https://github.com/ESSI-Lab/DAB)
+* [Aquaveo Water-Data-Explorer-WHOS](https://github.com/Aquaveo/Water-Data-Explorer-WHOS)
+* [HydroServer2](https://github.com/hydroserver2)
+* [WIS2Box](https://github.com/wmo-im/wis2box)
 
 ## GitHub
 - Teams
   - tag all of [TT-W4H](https://github.com/orgs/wmo-im/teams/tt-w4h) in a GitHub issue: **@wmo-im/tt-w4h**
-  - tag all of [ET-HYDMON](https://github.com/orgs/wmo-im/teams/et-hydmon) in a GitHub issue: **@wmo-im/et-hydmon**
+  - tag all of [JET-HYDMON](https://github.com/orgs/wmo-im/teams/et-hydmon) in a GitHub issue: **@wmo-im/et-hydmon**
 - [Team members and their GitHub handles](#Membership)
