@@ -1,11 +1,14 @@
 # ![World Meteorological Organization](https://community.wmo.int/themes/wmo/logo.png) WMO Task Team WIS for Hydrology (TT-W4H)
 [TT-W4H]() improves the accessibility and interoperability of hydrological data provided by NMHSs and other data providers and facilitates the exchange of hydrological data using WIS2.0. This Task-Team is part of the Expert Team on WIS2 Program Engagement and is mandated to perform the following:
-1. Finalize the 2024-2029 WHOS operational plan ensuring alignment on the data exchange activities within WIS 2.0 framework, 
-2. Develop the WIS 2.0 topic hierarchy (see https://github.com/wmo-im/wis2-topic-hierarchy)  for Hydrological data and products, 
-3. Develop hydrological data and products metadata in accordance with the WMO Core Metadata Profile (WCMP 2.0, see https://github.com/wmo-im/wcmp2) standard, 
-4. Develop hydrological data and products metadata key performance indicators (KPIs) to assess the completeness and quality of metadata records, 
-5. Support the development of WHOS server and client tools including WHOS Data Access Broker (DAB), Water Data Explorer (WDE) and others
-6. To liaise with JET-HYDMON  and regularly report to the Expert Team on the progress of the task team activities. 
+1. Support the alignment of WHOS and WIS 2.0, 
+2. Finalize the 2024-2029 WHOS operational plan including alignment on the data exchange activities within WIS 2.0 framework, and implementation and sustainability engagement plan,  
+3. Propose the WIS 2.0 topic hierarchy, and discovery metadata in accordance with the WCMP 2.0 for hydrological data and products,
+4. Develop hydrological data and products metadata key performance indicators (KPIs) to assess the completeness and quality of metadata records,  
+5. Regularly report to the SC-IMT Expert Team and hydrological community through appropriate Hydrology INFCOM body on the progress of the task team activities, 
+6. Propose updates to manuals, guides and other technical regulation documents and updates to relevant chapters in the documents, related to hydrological data exchange and access as part of WIS, 
+7. Liaise with the Expert Team on WIS2 Development Program to engage the participation of hydrology stakeholders in the implementation of WIS 2.0,
+8. Lead the implementation of WHOS among Members at national, regional and international scales, as per Cg-19 request (4.2(4)/24), in collaboration with other UN Organizations, academia, and regional/international organizations,
+9. Develop capacity building and training materials on WHOS and engage in capacity development for Members in collaboration with ETR and other capacity building groups within WMO, academia, and regional organizations (basins and commissions).   
 
 ## WMO Expert Database
 [WMO Expert Database group](https://contacts.wmo.int/groups/details_group_expert/?id=6d36e45b-6a0b-ee11-8f6e-000d3aa9b86e)
