@@ -1,0 +1,267 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
+  <diagram name="Page-1" id="l9tBuYdN89O4xna4LP3Q">
+    <mxGraphModel dx="1554" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object placeholders="1" c4Name="Public User" c4Type="Person" c4Description="External or Unauthorized person" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="jyER3AooxRfyzFcGl_vm-3">
+          <mxCell parent="1" style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#6C6477;strokeColor=#4D4D4D;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1">
+            <mxGeometry height="180" width="200" x="30" y="90" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Hydrology DCPCs or WIGOS and/or WIS Nodes" c4Type="ContainerScopeBoundary" c4Application="Software" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="jyER3AooxRfyzFcGl_vm-5">
+          <mxCell parent="1" style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="260" width="510" x="250" y="320" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="WHOS DAB" c4Type="Software System" c4Description="Mediates data and metadata and connects providers" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="jyER3AooxRfyzFcGl_vm-9">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1ba1e2;align=center;arcSize=10;strokeColor=#006EAF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontColor=#ffffff;" vertex="1">
+            <mxGeometry height="80" width="140" x="580" y="330" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="NHSs or Data Providers" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="jyER3AooxRfyzFcGl_vm-11">
+          <mxCell parent="1" style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=default;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="430" width="315" x="855" y="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Priviledged User" c4Type="Person" c4Description="Internal or Authorized Person" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-1">
+          <mxCell parent="1" style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=1;" vertex="1">
+            <mxGeometry height="80" width="145" x="890" y="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="WHOS portal" c4Type="Container" c4Technology="e.g. JavaScript, Angular etc." c4Description="Consume and Display WIS Nodes and other sources role" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-2">
+          <mxCell parent="1" style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1">
+            <mxGeometry height="160" width="240" x="400" y="70" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Database e.g MCH" c4Type="Container" c4Technology="e.g. MariaDB" c4Description="Collects and manages the data." label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-4">
+          <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=1;" vertex="1">
+            <mxGeometry height="70" width="140" x="892.5" y="220" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="WIS Node" c4Type="Software System" c4Description="Provides WIS3 publication facility" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-5">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="60" width="120" x="1020" y="340" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="WIS Node" c4Type="Software System" c4Description="Provides WIS3 publication facility" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-6">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="60" width="120" x="1032.5" y="360" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="WIS Node" c4Type="Software System" c4Description="Provides WIS2 publication facility" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-7">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="60" width="120" x="1040" y="380" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Database e.g MCH" c4Type="Container" c4Technology="e.g. MariaDB" c4Description="Collects and manages the data." label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-8">
+          <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=1;" vertex="1">
+            <mxGeometry height="70" width="140" x="920" y="230" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Database e.g MCH" c4Type="Container" c4Technology="e.g. MariaDB" c4Description="Collects and manages the data." label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-9">
+          <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=1;" vertex="1">
+            <mxGeometry height="70" width="140" x="950" y="240" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="APIs/WAF/FTPs" c4Type="Software System" c4Description="Publication and M2M facility" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-10">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;arcSize=10;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
+            <mxGeometry height="60" width="120" x="870" y="330" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="APIs/WAF/FTPs" c4Type="Software System" c4Description="Publication and M2M facility" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-12">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;arcSize=10;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
+            <mxGeometry height="60" width="120" x="870" y="350" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="APIs/WAF/FTPs" c4Type="Software System" c4Description="Publication and M2M facility" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-13">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;arcSize=10;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
+            <mxGeometry height="60" width="120" x="870" y="370" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Database e.g MCH" c4Type="Container" c4Technology="e.g. MariaDB" c4Description="Collects and manages the data." label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-14">
+          <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=1;" vertex="1">
+            <mxGeometry height="70" width="140" x="970" y="260" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="WHOS DAB" c4Type="Software System" c4Description="Mediates data and metadata and connects providers" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-15">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1ba1e2;align=center;arcSize=10;strokeColor=#006EAF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontColor=#ffffff;" vertex="1">
+            <mxGeometry height="80" width="140" x="580" y="370" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="WHOS DAB" c4Type="Software System" c4Description="Mediates data and metadata and connects providers" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-16">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1ba1e2;align=center;arcSize=10;strokeColor=#006EAF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontColor=#ffffff;" vertex="1">
+            <mxGeometry height="80" width="140" x="580" y="410" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="WHOS DAB" c4Type="Software System" c4Description="Mediates data and metadata and connects providers" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-17">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1ba1e2;align=center;arcSize=10;strokeColor=#006EAF;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontColor=#ffffff;" vertex="1">
+            <mxGeometry height="80" width="140" x="580" y="460" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Hydrology Global Databases" c4Type="Container" c4Technology="e.g. Oracle Database 12" c4Description="Collects and redistributes hydrology datasets" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-19">
+          <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=1;" vertex="1">
+            <mxGeometry height="110" width="220" x="270" y="330" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Hydrology Global Databases" c4Type="Container" c4Technology="e.g. Oracle Database 12" c4Description="Collects and redistributes hydrology datasets" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-20">
+          <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=1;" vertex="1">
+            <mxGeometry height="110" width="210" x="275" y="355" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Hydrology Global Databases" c4Type="Container" c4Technology="e.g. Oracle Database 12" c4Description="Collects and redistributes hydrology datasets" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-21">
+          <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=1;" vertex="1">
+            <mxGeometry height="110" width="210" x="280" y="370" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Global Station Catalogue" c4Type="Container" c4Technology="Software system" c4Description="WIGOS Catalogue" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-22">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#a0522d;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#6D1F00;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="370" y="630" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-27" edge="1" parent="1" source="jyER3AooxRfyzFcGl_vm-3" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.456;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.929;entryDx=0;entryDy=0;entryPerimeter=0;" target="IGN2D-rSzOa8PGJ70PTL-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="320" />
+              <mxPoint x="140" y="420" />
+            </Array>
+            <mxPoint x="120" y="280" as="sourcePoint" />
+            <mxPoint x="250" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-28" edge="1" parent="1" source="jyER3AooxRfyzFcGl_vm-3" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="IGN2D-rSzOa8PGJ70PTL-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="300" />
+              <mxPoint x="90" y="380" />
+              <mxPoint x="100" y="430" />
+              <mxPoint x="150" y="490" />
+              <mxPoint x="160" y="530" />
+              <mxPoint x="190" y="540" />
+              <mxPoint x="190" y="550" />
+              <mxPoint x="240" y="590" />
+            </Array>
+            <mxPoint x="75" y="280" as="sourcePoint" />
+            <mxPoint x="226" y="424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="WIS Global services" c4Type="Software System" c4Description="Global brokers, catalogues, caches, monitoring" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="IGN2D-rSzOa8PGJ70PTL-29">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="180" width="310" x="880" y="560" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-30" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="320" />
+              <mxPoint x="60" y="430" />
+              <mxPoint x="110" y="600" />
+              <mxPoint x="460" y="840" />
+            </Array>
+            <mxPoint x="60" y="270" as="sourcePoint" />
+            <mxPoint x="876" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-32" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=-0.015;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;" target="IGN2D-rSzOa8PGJ70PTL-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="177.48" />
+              <mxPoint x="260" y="150" />
+              <mxPoint x="310" y="140" />
+            </Array>
+            <mxPoint x="220" y="177.48" as="sourcePoint" />
+            <mxPoint x="387.1199999999999" y="122.51999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-34" edge="1" parent="1" source="jyER3AooxRfyzFcGl_vm-3" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.843;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="240" />
+              <mxPoint x="280" y="250" />
+            </Array>
+            <mxPoint x="240" y="230" as="sourcePoint" />
+            <mxPoint x="850" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-35" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.028;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="418" y="340" as="sourcePoint" />
+            <mxPoint x="424.72" y="227.44000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-36" edge="1" parent="1" source="jyER3AooxRfyzFcGl_vm-9" style="endArrow=classic;html=1;rounded=0;entryX=0.028;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.077;exitY=0.058;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="333" as="sourcePoint" />
+            <mxPoint x="587" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-38" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="IGN2D-rSzOa8PGJ70PTL-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="850" y="400" as="sourcePoint" />
+            <mxPoint x="810" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-39" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;" target="IGN2D-rSzOa8PGJ70PTL-29" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="580" />
+              <mxPoint x="720" y="560" />
+              <mxPoint x="750" y="570" />
+            </Array>
+            <mxPoint x="680" y="540" as="sourcePoint" />
+            <mxPoint x="846" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-40" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="640" />
+              <mxPoint x="750" y="630" />
+            </Array>
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="880" y="666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-42" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.419;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" target="IGN2D-rSzOa8PGJ70PTL-29" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1010" y="510" as="sourcePoint" />
+            <mxPoint x="1010" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-43" edge="1" parent="1" source="IGN2D-rSzOa8PGJ70PTL-17" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.72;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.374;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" target="IGN2D-rSzOa8PGJ70PTL-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="570" />
+              <mxPoint x="600" y="570" />
+              <mxPoint x="590" y="590" />
+              <mxPoint x="580" y="590" />
+            </Array>
+            <mxPoint x="610" y="540" as="sourcePoint" />
+            <mxPoint x="810" y="606" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-44" edge="1" parent="1" source="IGN2D-rSzOa8PGJ70PTL-21" style="endArrow=classic;html=1;rounded=0;entryX=0.15;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.44;exitY=1.031;exitDx=0;exitDy=0;exitPerimeter=0;" target="IGN2D-rSzOa8PGJ70PTL-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="550" as="sourcePoint" />
+            <mxPoint x="390" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IGN2D-rSzOa8PGJ70PTL-46" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="IGN2D-rSzOa8PGJ70PTL-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="360" />
+              <mxPoint x="1240" y="490" />
+              <mxPoint x="1250" y="680" />
+              <mxPoint x="1140" y="790" />
+              <mxPoint x="980" y="790" />
+              <mxPoint x="840" y="780" />
+              <mxPoint x="690" y="810" />
+            </Array>
+            <mxPoint x="1170" y="350" as="sourcePoint" />
+            <mxPoint x="500" y="760.800048828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
