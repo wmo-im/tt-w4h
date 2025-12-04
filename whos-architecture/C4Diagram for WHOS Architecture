@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="Page-1" id="l9tBuYdN89O4xna4LP3Q">
-    <mxGraphModel dx="1554" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1244" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,6 +297,12 @@
         </mxCell>
         <mxCell id="33-9yoSGX7_EahHzXUa_-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p style=&quot;language:en-CH;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-family: Aptos;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;download data and metadata&lt;br&gt;(recommended data)&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="660" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="33-9yoSGX7_EahHzXUa_-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" target="IGN2D-rSzOa8PGJ70PTL-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="417.5" as="sourcePoint" />
+            <mxPoint x="570" y="382.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
