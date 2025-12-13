@@ -264,7 +264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KawmljnROlZ017h4Ucwu" name="WHOS Architecture">
-    <mxGraphModel dx="1244" dy="1579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,7 +290,7 @@
         </object>
         <object placeholders="1" c4Name="Local Data management" c4Technology="Database System" c4Description="Collects and manages the data." label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="2kew85Q3Q-9UuF6sMaRC-7">
           <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=1;" vertex="1">
-            <mxGeometry height="90" width="170" x="1190" y="100" as="geometry" />
+            <mxGeometry height="90" width="170" x="1190.5" y="90" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="WIS Node" c4Type="Software System" c4Description="Provides WIS3 publication facility" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="2kew85Q3Q-9UuF6sMaRC-8">
@@ -353,7 +353,7 @@
             <mxGeometry height="120" width="230" x="715" y="100" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="WIPPS Systems including HydroSOS" c4Description="Forecasting, Outlooks and Modelling Systems" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[Systems]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7JqATOY60sZclGpp05Zp-15">
+        <object placeholders="1" c4Name="WIPPS including HydroSOS" c4Description="Forecasting, Outlooks and Modelling Systems" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[Systems]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7JqATOY60sZclGpp05Zp-15">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
             <mxGeometry height="120" width="240" x="65" y="250" as="geometry" />
           </mxCell>
@@ -397,7 +397,7 @@
             <mxPoint x="710" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="WHOS portal" c4Type="Container" c4Technology="e.g. JavaScript, Angular etc." c4Description="Consume and Display WIS Nodes and other sources role" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7JqATOY60sZclGpp05Zp-26">
+        <object placeholders="1" c4Name="WHOS portal" c4Type="Container" c4Technology="e.g. JavaScript, Angular etc." c4Description="Consume and Display hydrology data, UIs and search" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7JqATOY60sZclGpp05Zp-26">
           <mxCell parent="1" style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1">
             <mxGeometry height="160" width="240" x="500" y="610" as="geometry" />
           </mxCell>
@@ -590,12 +590,12 @@
         </object>
         <object placeholders="1" c4Name="Local Data management" c4Technology="Database System" c4Description="Collects and manages the data." label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7JqATOY60sZclGpp05Zp-68">
           <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=1;" vertex="1">
-            <mxGeometry height="90" width="170" x="1170" y="145" as="geometry" />
+            <mxGeometry height="90" width="170" x="1170" y="130" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Local Data management" c4Technology="Database System" c4Description="Collects and manages the data." label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7JqATOY60sZclGpp05Zp-69">
+        <object placeholders="1" c4Name="Local Data management" c4Technology="Database System" c4Description="Collects, store, and manages the data." label="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7JqATOY60sZclGpp05Zp-69">
           <mxCell parent="1" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=1;" vertex="1">
-            <mxGeometry height="90" width="170" x="1190" y="190" as="geometry" />
+            <mxGeometry height="90" width="170" x="1182.5" y="175" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="APIs/WAF/FTPs" c4Type="Software System" c4Description="Publication and M2M facility" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7JqATOY60sZclGpp05Zp-72">
@@ -603,9 +603,9 @@
             <mxGeometry height="60" width="120" x="1045" y="245" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="APIs/WAF/FTPs" c4Type="Software System" c4Description="Publication and M2M facility" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7JqATOY60sZclGpp05Zp-73">
+        <object placeholders="1" c4Name="APIs/WAF/FTPs" c4Type="Software System" c4Description="Web Services: Publication and M2M facility" label="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="7JqATOY60sZclGpp05Zp-73">
           <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;arcSize=10;metaEdit=1;resizable=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="60" width="120" x="1050" y="265" as="geometry" />
+            <mxGeometry height="75" width="120" x="1050" y="260" as="geometry" />
           </mxCell>
         </object>
       </root>
