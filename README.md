@@ -1,4 +1,4 @@
-# ![World Meteorological Organization](https://community.wmo.int/themes/wmo/logo.png) WMO Task Team WIS for Hydrology (TT-W4H)
+# WMO Task Team WIS for Hydrology (TT-W2FH)
 [TT-W4H]() improves the accessibility and interoperability of hydrological data provided by NMHSs and other data providers and facilitates the exchange of hydrological data using WIS2.0. This Task-Team is part of the Expert Team on WIS2 Program Engagement and is mandated to perform the following:
 1. Support the alignment of WHOS and WIS 2.0, 
 2. Finalize the 2024-2029 WHOS operational plan including alignment on the data exchange activities within WIS 2.0 framework, and implementation and sustainability engagement plan,  
