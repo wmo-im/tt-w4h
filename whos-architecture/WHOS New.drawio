@@ -264,7 +264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Y_Copy of WHOS data sources_Yirgalem" id="aDNRlgjT9yBQS55A1pcd">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1097" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ItnS1H-HI60QnJLYygsv-0" />
         <mxCell id="ItnS1H-HI60QnJLYygsv-1" parent="ItnS1H-HI60QnJLYygsv-0" />
@@ -367,8 +367,8 @@
         <mxCell id="ItnS1H-HI60QnJLYygsv-23" parent="ItnS1H-HI60QnJLYygsv-1" style="image;html=1;image=img/lib/clip_art/general/Gear_128x128.png" value="" vertex="1">
           <mxGeometry height="45" width="50" x="921.2" y="465" as="geometry" />
         </mxCell>
-        <mxCell id="ItnS1H-HI60QnJLYygsv-24" parent="ItnS1H-HI60QnJLYygsv-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;WHOS&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="60" x="946.2" y="420" as="geometry" />
+        <mxCell id="ItnS1H-HI60QnJLYygsv-24" parent="ItnS1H-HI60QnJLYygsv-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b style=&quot;&quot;&gt;WHOS&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="956.2" y="420" as="geometry" />
         </mxCell>
         <mxCell id="ItnS1H-HI60QnJLYygsv-25" parent="ItnS1H-HI60QnJLYygsv-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#E6D0DE;strokeColor=none;fontSize=16;fontColor=#ffffff;fontStyle=1;rounded=0;" value="&lt;font style=&quot;color: rgb(10, 10, 10); font-size: 12px;&quot;&gt;Ingest, retrieve and download&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="230" x="1050" y="425" as="geometry" />
@@ -376,7 +376,7 @@
         <mxCell id="ItnS1H-HI60QnJLYygsv-26" parent="ItnS1H-HI60QnJLYygsv-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#FFF2CC;strokeColor=none;fontSize=16;fontColor=#ffffff;fontStyle=1;rounded=0;" value="&lt;font style=&quot;font-size: 12px; color: rgb(10, 10, 10);&quot;&gt;Discover, Visualize , connect the dots&lt;/font&gt;" vertex="1">
           <mxGeometry height="45" width="230" x="1050" y="472.5" as="geometry" />
         </mxCell>
-        <mxCell id="ItnS1H-HI60QnJLYygsv-27" parent="ItnS1H-HI60QnJLYygsv-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#FFCE9F;strokeColor=none;fontSize=16;fontColor=#ffffff;fontStyle=1;rounded=0;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;FAIR, Standardize, Best practice&lt;/font&gt;" vertex="1">
+        <mxCell id="ItnS1H-HI60QnJLYygsv-27" parent="ItnS1H-HI60QnJLYygsv-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#FFCE9F;strokeColor=none;fontSize=16;fontColor=#ffffff;fontStyle=1;rounded=0;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;FAIR, Interoperable, Standardize, Best practice&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="230" x="1050" y="525" as="geometry" />
         </mxCell>
         <mxCell id="ItnS1H-HI60QnJLYygsv-28" parent="ItnS1H-HI60QnJLYygsv-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#9AC7BF;strokeColor=none;fontSize=16;fontColor=#ffffff;fontStyle=1;rounded=0;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Link to Wider WMO Systems&amp;nbsp;&lt;/font&gt;" vertex="1">
@@ -388,7 +388,7 @@
         <mxCell id="ItnS1H-HI60QnJLYygsv-30" parent="ItnS1H-HI60QnJLYygsv-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" value="" vertex="1">
           <mxGeometry height="50" width="90" x="930" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="ItnS1H-HI60QnJLYygsv-31" parent="ItnS1H-HI60QnJLYygsv-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Preparation" vertex="1">
+        <mxCell id="ItnS1H-HI60QnJLYygsv-31" parent="ItnS1H-HI60QnJLYygsv-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Multiple technologies" vertex="1">
           <mxGeometry height="30" width="60" x="946.2" y="550" as="geometry" />
         </mxCell>
       </root>
