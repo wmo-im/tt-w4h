@@ -274,7 +274,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eNy4CTQQxCMczNcOiqfT" name="WHOS data sources">
-    <mxGraphModel dx="1025" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,10 +362,10 @@
             <mxPoint x="390" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KvnQW2kM-svjB2TYOtsc-31" parent="1" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#10739E;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Multiple National Institutions&lt;/font&gt;" vertex="1">
+        <mxCell id="KvnQW2kM-svjB2TYOtsc-31" parent="1" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#10739E;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Multiple local Institutions&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="60" x="410" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="KvnQW2kM-svjB2TYOtsc-32" parent="1" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#F2931E;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;National Institutions&lt;/span&gt;" vertex="1">
+        <mxCell id="KvnQW2kM-svjB2TYOtsc-32" parent="1" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#F2931E;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;National Institutions (NMHSs)&lt;/span&gt;" vertex="1">
           <mxGeometry height="100" width="80" x="480" y="470" as="geometry" />
         </mxCell>
         <mxCell id="KvnQW2kM-svjB2TYOtsc-33" parent="1" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#AE4132;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Subbasin organizations&lt;/span&gt;" vertex="1">
@@ -408,7 +408,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Y_Copy of WHOS data sources_Yirgalem" id="aDNRlgjT9yBQS55A1pcd">
-    <mxGraphModel dx="1097" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1348" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ItnS1H-HI60QnJLYygsv-0" />
         <mxCell id="ItnS1H-HI60QnJLYygsv-1" parent="ItnS1H-HI60QnJLYygsv-0" />
@@ -496,11 +496,11 @@
             <mxPoint x="390" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ItnS1H-HI60QnJLYygsv-18" parent="ItnS1H-HI60QnJLYygsv-1" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#10739E;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Multiple National Institutions&lt;/font&gt;" vertex="1">
-          <mxGeometry height="100" width="100" x="420" y="472.5" as="geometry" />
+        <mxCell id="ItnS1H-HI60QnJLYygsv-18" parent="ItnS1H-HI60QnJLYygsv-1" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#10739E;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Multiple local intitutions&lt;/font&gt;" vertex="1">
+          <mxGeometry height="97.5" width="70" x="410" y="472.5" as="geometry" />
         </mxCell>
         <mxCell id="ItnS1H-HI60QnJLYygsv-20" parent="ItnS1H-HI60QnJLYygsv-1" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#AE4132;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Subbasin organizations&lt;/span&gt;" vertex="1">
-          <mxGeometry height="100" width="90" x="530" y="470" as="geometry" />
+          <mxGeometry height="100" width="90" x="550" y="470" as="geometry" />
         </mxCell>
         <mxCell id="ItnS1H-HI60QnJLYygsv-21" parent="ItnS1H-HI60QnJLYygsv-1" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#23445D;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Basin and regional organizations&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="90" x="640" y="470" as="geometry" />
@@ -534,6 +534,12 @@
         </mxCell>
         <mxCell id="ItnS1H-HI60QnJLYygsv-31" parent="ItnS1H-HI60QnJLYygsv-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Multiple technologies" vertex="1">
           <mxGeometry height="30" width="60" x="946.2" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="GXfeihLsFIt0LZ0qx8RZ-0" parent="ItnS1H-HI60QnJLYygsv-1" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#F2931E;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;National Institutions (NMHSs)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="80" x="470" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="GXfeihLsFIt0LZ0qx8RZ-1" parent="ItnS1H-HI60QnJLYygsv-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
