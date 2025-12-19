@@ -274,7 +274,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eNy4CTQQxCMczNcOiqfT" name="WHOS data sources">
-    <mxGraphModel dx="1281" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,7 +401,7 @@
         <mxCell id="KvnQW2kM-svjB2TYOtsc-85" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" value="" vertex="1">
           <mxGeometry height="50" width="90" x="930" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="KvnQW2kM-svjB2TYOtsc-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Preparation" vertex="1">
+        <mxCell id="KvnQW2kM-svjB2TYOtsc-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="WHOS technologies" vertex="1">
           <mxGeometry height="30" width="60" x="946.2" y="550" as="geometry" />
         </mxCell>
       </root>
