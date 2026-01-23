@@ -630,7 +630,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="WHOS Architecture_V2" id="9kOUgQgnVwOyAKJtrEwH">
-    <mxGraphModel dx="786" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1828" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SO9IuJ52FJhfRuMnPULx-0" />
         <mxCell id="SO9IuJ52FJhfRuMnPULx-1" parent="SO9IuJ52FJhfRuMnPULx-0" />
@@ -765,7 +765,7 @@
         </mxCell>
         <object placeholders="1" c4Name="WHOS portal" c4Type="Container" c4Technology="e.g. JavaScript, Angular etc." c4Description="Consume and Display hydrology data, UIs and search" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="SO9IuJ52FJhfRuMnPULx-29">
           <mxCell parent="SO9IuJ52FJhfRuMnPULx-1" style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1">
-            <mxGeometry height="160" width="240" x="500" y="610" as="geometry" />
+            <mxGeometry height="160" width="240" x="500" y="600" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="SO9IuJ52FJhfRuMnPULx-30" edge="1" parent="SO9IuJ52FJhfRuMnPULx-1" style="endArrow=none;html=1;rounded=0;" value="">
@@ -846,20 +846,17 @@
               <mxPoint x="1120" y="490" />
               <mxPoint x="1120" y="540" />
               <mxPoint x="1120" y="650" />
-              <mxPoint x="1110" y="670" />
-              <mxPoint x="1080" y="680" />
-              <mxPoint x="1030" y="681" />
-              <mxPoint x="1000" y="681" />
-              <mxPoint x="950" y="680" />
-              <mxPoint x="900" y="680" />
-              <mxPoint x="860" y="681" />
+              <mxPoint x="1080" y="660" />
+              <mxPoint x="950" y="670" />
+              <mxPoint x="880" y="670" />
+              <mxPoint x="800" y="671" />
             </Array>
             <mxPoint x="1120" y="440" as="sourcePoint" />
             <mxPoint x="870" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SO9IuJ52FJhfRuMnPULx-43" parent="SO9IuJ52FJhfRuMnPULx-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;font-family: Aptos;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Discover, visualize, and download meta information&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="115" x="890" y="630" as="geometry" />
+          <mxGeometry height="40" width="115" x="890" y="610" as="geometry" />
         </mxCell>
         <mxCell id="SO9IuJ52FJhfRuMnPULx-44" edge="1" parent="SO9IuJ52FJhfRuMnPULx-1" source="SO9IuJ52FJhfRuMnPULx-20" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -877,20 +874,16 @@
               <mxPoint x="120" y="550" />
               <mxPoint x="120" y="610" />
               <mxPoint x="120" y="660" />
-              <mxPoint x="120" y="790" />
-              <mxPoint x="210" y="800" />
-              <mxPoint x="320" y="800" />
-              <mxPoint x="430" y="800" />
-              <mxPoint x="540" y="800" />
-              <mxPoint x="660" y="800" />
-              <mxPoint x="850" y="800" />
-              <mxPoint x="960" y="800" />
-              <mxPoint x="1100" y="800" />
-              <mxPoint x="1170" y="800" />
-              <mxPoint x="1200" y="800" />
-              <mxPoint x="1230" y="800" />
-              <mxPoint x="1240" y="770" />
-              <mxPoint x="1240" y="740" />
+              <mxPoint x="130" y="780" />
+              <mxPoint x="210" y="780" />
+              <mxPoint x="250" y="780" />
+              <mxPoint x="310" y="780" />
+              <mxPoint x="430" y="780" />
+              <mxPoint x="530" y="780" />
+              <mxPoint x="960" y="780" />
+              <mxPoint x="1100" y="780" />
+              <mxPoint x="1180" y="770" />
+              <mxPoint x="1230" y="730" />
               <mxPoint x="1240" y="680" />
             </Array>
             <mxPoint x="80" y="500" as="sourcePoint" />
