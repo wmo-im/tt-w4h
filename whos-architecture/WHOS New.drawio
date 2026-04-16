@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1" pages="13">
   <diagram name="WHOS as full part of WMO System_Yirgalem" id="HAoz4a6uOfQNzyr_Waxt">
     <mxGraphModel dx="1418" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eNy4CTQQxCMczNcOiqfT" name="WHOS data sources">
-    <mxGraphModel dx="1664" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1017" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
             <mxPoint x="380" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KvnQW2kM-svjB2TYOtsc-10" parent="1" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;fillColor=#F8CECC;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;measurements&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;sensor&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="KvnQW2kM-svjB2TYOtsc-10" parent="1" style="triangle;whiteSpace=wrap;html=1;dashed=0;direction=south;fillColor=#F8CECC;" value="&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sensor or Sensor Networks&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="110" x="20" y="590" as="geometry" />
         </mxCell>
         <mxCell id="KvnQW2kM-svjB2TYOtsc-44" edge="1" parent="1" source="KvnQW2kM-svjB2TYOtsc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=blockThin;startFill=1;exitX=0.999;exitY=0.433;exitDx=0;exitDy=0;exitPerimeter=0;" target="KvnQW2kM-svjB2TYOtsc-42" value="">
@@ -215,7 +215,7 @@
             <mxPoint x="360" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KvnQW2kM-svjB2TYOtsc-19" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fillColor=#A9C4EB;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Manual Hydro&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Station&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="KvnQW2kM-svjB2TYOtsc-19" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fillColor=#A9C4EB;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Manual&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Station&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="100" x="140" y="450" as="geometry" />
         </mxCell>
         <mxCell id="KvnQW2kM-svjB2TYOtsc-30" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
@@ -228,7 +228,7 @@
             <mxPoint x="380" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KvnQW2kM-svjB2TYOtsc-20" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;shadow=1;fillColor=#D5E8D4;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Automatic Hydro Station&lt;/span&gt;" vertex="1">
+        <mxCell id="KvnQW2kM-svjB2TYOtsc-20" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;shadow=1;fillColor=#D5E8D4;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Automatic Station&lt;/span&gt;" vertex="1">
           <mxGeometry height="80" width="110" x="10" y="390" as="geometry" />
         </mxCell>
         <mxCell id="KvnQW2kM-svjB2TYOtsc-22" edge="1" parent="1" source="KvnQW2kM-svjB2TYOtsc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
@@ -282,7 +282,7 @@
         <mxCell id="KvnQW2kM-svjB2TYOtsc-85" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;" value="" vertex="1">
           <mxGeometry height="50" width="90" x="930" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="KvnQW2kM-svjB2TYOtsc-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="WHOS technologies" vertex="1">
+        <mxCell id="KvnQW2kM-svjB2TYOtsc-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="WHOS Componets" vertex="1">
           <mxGeometry height="30" width="60" x="946.2" y="550" as="geometry" />
         </mxCell>
       </root>
