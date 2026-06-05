@@ -83,7 +83,6 @@ https://github.com/wmo-im/tt-w4h/wiki/Meetings
 * [Essi-Lab Discovery and Access Broker (DAB) Community Edition (CE)](https://github.com/ESSI-Lab/DAB)
 * [HydroServer2.0-WMO Landing page](https://github.com/wmo-im/whos-hydroserver)
 * [Aquaveo Water-Data-Explorer-WHOS](https://github.com/Aquaveo/Water-Data-Explorer-WHOS)
-* [HydroServer2](https://github.com/hydroserver2)
 * [WIS2Box](https://github.com/wmo-im/wis2box)
 * [WIS2Box Training](https://github.com/wmo-im/wis2box-training)
 
